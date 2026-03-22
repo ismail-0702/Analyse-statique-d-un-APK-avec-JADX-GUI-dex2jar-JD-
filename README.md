@@ -22,13 +22,22 @@ Identifier les informations sensibles codées en dur dans l'application.
 Transformer le bytecode Android en format JAR pour une analyse alternative.
 <img width="1418" height="249" alt="Capture d&#39;écran 2026-03-22 172033" src="https://github.com/user-attachments/assets/b8159343-de1c-4fd9-8d64-07a77cbae272" />
 <img width="1378" height="337" alt="Capture d&#39;écran 2026-03-22 172052" src="https://github.com/user-attachments/assets/f10b29d1-35df-447b-9517-92575ee578e8" />
+
 Vérifiez les fichiers DEX extraits .
+
 <img width="937" height="196" alt="Capture d&#39;écran 2026-03-22 172134" src="https://github.com/user-attachments/assets/3171d480-13b2-4734-a65f-724b8c1979ef" />
+
 Essayez de exporter le projet pour avoir le dossier contenant JAVA. 
+
 <img width="255" height="528" alt="Capture d&#39;écran 2026-03-22 173253" src="https://github.com/user-attachments/assets/af618dee-fda1-4c10-be11-590254f6e040" />
+
 Choisissez 'Simple Java' et donnez le chemin extraction
+
 <img width="452" height="349" alt="Capture d&#39;écran 2026-03-22 173415" src="https://github.com/user-attachments/assets/428f6c9f-5019-46f2-9f4c-436d56dc4e2d" />
+
 Le fichier telecharger.
+
 <img width="1012" height="201" alt="Capture d&#39;écran 2026-03-22 174238" src="https://github.com/user-attachments/assets/dfdf7609-d140-4073-bbf6-bee90e7e0024" />
+
 Apres utiliser l'outil JD-GUI pour s'assurer que le code est bon.
 
