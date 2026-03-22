@@ -19,7 +19,9 @@ Identifier les informations sensibles codées en dur dans l'application.
 <img width="960" height="1020" alt="Capture d&#39;écran 2026-03-22 170910" src="https://github.com/user-attachments/assets/a4fa295e-9227-40d5-ae4c-89390f046ea6" />
 <img width="960" height="1020" alt="Capture d&#39;écran 2026-03-22 170916" src="https://github.com/user-attachments/assets/3728f905-9adc-4d3f-8576-be60a20be6cc" />
 <img width="960" height="1020" alt="Capture d&#39;écran 2026-03-22 170937" src="https://github.com/user-attachments/assets/09d9fe06-659a-4f61-9efe-7077448fb7fc" />
+
 Transformer le bytecode Android en format JAR pour une analyse alternative.
+
 <img width="1418" height="249" alt="Capture d&#39;écran 2026-03-22 172033" src="https://github.com/user-attachments/assets/b8159343-de1c-4fd9-8d64-07a77cbae272" />
 <img width="1378" height="337" alt="Capture d&#39;écran 2026-03-22 172052" src="https://github.com/user-attachments/assets/f10b29d1-35df-447b-9517-92575ee578e8" />
 
